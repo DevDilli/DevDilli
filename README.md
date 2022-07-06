@@ -1,16 +1,18 @@
-### Hi there 👋
+I'm **[Dilliraj B](https://www.linkedin.com/in/devdilli/)** ; aka **Dilli**. 
 
-<!--
-**DevDilli/DevDilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer by professional ,born & brought up at Chennai and currently residing near **Thiruvallur**. 
 
-Here are some ideas to get you started:
+Role - Websphere Administrator
+Aiming to be a Devops Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :YouTube: I write tamil poems when I get bored up, Do watch & subscribe my channel **[YouTube Channel](https://www.youtube.com/channel/UCAJQnpvys4KhX58ayYseZ1A)**. 
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devdilli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
+
+---
+
+## 🤝🏻 Let's Keep in Touch
