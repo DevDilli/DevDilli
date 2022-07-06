@@ -1,11 +1,13 @@
-I'm **[Dilliraj B](https://www.linkedin.com/in/devdilli/)** ; aka **Dilli**. 
+I'm **[Dilliraj B](https://www.linkedin.com/in/devdilli/)** ; 
 
 Software Engineer by professional ,born & brought up at Chennai and currently residing near **Thiruvallur**. 
 
-Role - Websphere Administrator
-Aiming to be a Devops Engineer
+Role - Websphere Administrator, Next target is to become a Devops Engineer
 
-- :YouTube: I write tamil poems when I get bored up, Do watch & subscribe my channel **[YouTube Channel](https://www.youtube.com/channel/UCAJQnpvys4KhX58ayYseZ1A)**. 
+Hobbies: Playing Chess, carrom, Badminton,Blogging
+
+Strength:Quick Learner, Good Listener
+
 
 
 ## Github Stats  
